@@ -1,25 +1,30 @@
 cff-version: 1.2.0
-message: "If you use GIPS in your research, please cite it using these metadata."
-abstract: GIPS is an open-source framework for Graph-Based ILP Problem Specification. This repository holds some examples for GIPS.
+abstract: GIPS is an open-source framework for Graph-Based (M)ILP Problem Specification. This repository holds the submission for IHTC (Integrated Healthcare Timetabling Competition) 2024.
 authors:
-  - family-names: Ehmes
-    given-names: Sebastian
-    orcid: https://orcid.org/0000-0001-8001-6827
   - family-names: Kratz
     given-names: Maximilian
     orcid: https://orcid.org/0000-0001-7396-7763
-title: Graph-Based ILP Problem Specification Tool - Project examples
+  - family-names: Zschaler
+    given names: Steffen
+    orcid: https://orcid.org/0000-0001-9062-6637
+  - family-names: Kosiol
+    given names: Jens
+    orcid: https://orcid.org/0000-0003-4733-2777
+  - family-names: Schürr
+    given names: Andy
+    orcid: https://orcid.org/0000-0001-8100-1109
+title: Graph-Based (M)ILP Problem Specification Tool - IHTC (Integrated Healthcare Timetabling Competition) 2024 Submission
 version: 1.0.0
-date-released: 2022-05-03
-repository-code: "https://github.com/Echtzeitsysteme/gips-examples"
+date-released: 2025-06-25
+repository-code: "https://github.com/Echtzeitsysteme/gips-ihtc-2024-submission"
 keywords:
-  - "virtual network embedding"
   - "model-driven software engineering"
-  - simulation
   - "eclipse modeling framework"
   - pattern-matching
   - model
   - "integer linear programming"
   - emoflon
   - "graph transformation"
+  - ihtc
+  - "integrated healthcare timetabling competition"
 license: "GPL-3.0"
